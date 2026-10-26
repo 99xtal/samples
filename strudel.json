@@ -1,4 +1,5 @@
 {
   "_base": "https://raw.githubusercontent.com/99xtal/samples/master/",
-  "cc_its_like": "loops/cc_its_like.wav"
+  "cc_its_like": "loops/cc_its_like.wav",
+  "cc_hands": "loops/cc_hands.wav"
 }
